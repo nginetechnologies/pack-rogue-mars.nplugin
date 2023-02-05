@@ -1,0 +1,21 @@
+{
+    "a38432a9-3edf-4918-a4ec-10291d987861": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Rogue_Mars_Thumb.tex.nasset"
+    },
+    "debbd74c-8411-427d-b37f-c27dfd0fa41a": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Player/Alien Player.scene.nasset",
+        "thumbnail": "e95160b5-9f01-a360-4319-88759e54333f"
+    },
+    "e95160b5-9f01-a360-4319-88759e54333f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Player/Thumbnails/Player.scene.nasset.tex.nasset"
+    },
+    "fcf71308-e70d-4135-bc92-328f7710a344": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin"
+    },
+    "guid": "a3fa271d-c8e1-edbf-3f10-b600b66f7c2b"
+}
