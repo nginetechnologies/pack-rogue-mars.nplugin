@@ -83,6 +83,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "05293e10-7068-20a8-6b5e-d2cf4151d6eb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Double.mesh.nasset/Thumbnails/Building Double.mesh.nasset.tex.nasset"
+    },
     "063897cd-3bbf-06bf-a7ee-5f015bf82557": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -135,6 +139,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocks 01.mesh.nasset/Rocks 01.mesh.nasset",
+        "thumbnail": "55606709-6a85-60d7-ff98-1df766adc031",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -206,6 +211,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0de42586-642f-c54b-936d-e3ddd5496282": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x2.mesh.nasset/Thumbnails/Turbine x2.mesh.nasset.tex.nasset"
+    },
     "0e224a65-61c7-4b04-916c-cbf93b37996c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -257,6 +266,7 @@
     "111d2b63-bb95-ab8d-78da-f2c040ca2cd3": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/White.mtli.nasset",
+        "thumbnail": "2642ba99-59a3-be38-3313-eef4f74f853a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -265,6 +275,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 04.mesh.nasset/Landscape 04.mesh.nasset",
+        "thumbnail": "85218873-be91-7f7b-1bc5-9febebdf472f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -313,6 +324,10 @@
     "17a6e222-47bb-9e99-d2fd-f0efd638b6a3": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Mound_Thumb.tex.nasset"
+    },
+    "17bbc97b-74c2-d8b8-8fc9-e47189d0969a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Dark.mtli.nasset.tex.nasset"
     },
     "18394a83-ce9d-e3f1-2511-486b2c2f9a65": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -382,6 +397,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Barrels x4.mesh.nasset/Barrels x4.mesh.nasset",
+        "thumbnail": "e01a1aac-2e96-8a4d-0740-f1df1dfe8bd6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -394,6 +410,10 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "550d3e9d-a223-edef-bfd3-6b287fb95da9"
         ]
+    },
+    "1c907fe2-bfba-08a7-d728-cdac310079b8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform Large.mesh.nasset/Thumbnails/Platform Large.mesh.nasset.tex.nasset"
     },
     "1d0add08-cf06-1e51-4246-5cbf72e6ec81": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -411,6 +431,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Bones.mesh.nasset/Bones.mesh.nasset",
+        "thumbnail": "5ef01395-bf5b-c803-5a87-4226ae98e7d7",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -432,6 +453,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "1ea078d4-ff58-7009-66eb-5ca0c8250402": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Satellite.mesh.nasset/Thumbnails/Satellite.mesh.nasset.tex.nasset"
+    },
     "1fc1e148-3e1a-6dec-4839-4b3dd9ac3185": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -443,6 +468,18 @@
             "c3b77add-7197-881e-456b-b0bd6b4a8525",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "203b4a4c-5b01-72ef-9e49-7c7194e61e27": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Metal Dark.mtli.nasset.tex.nasset"
+    },
+    "20a390f6-202b-24b8-c91b-2d08c21348f4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Large.mesh.nasset/Thumbnails/Train Track Large.mesh.nasset.tex.nasset"
+    },
+    "20b2f53d-e1d8-2e66-590e-ac8111a5774c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 04.mesh.nasset/Thumbnails/Mound 04.mesh.nasset.tex.nasset"
     },
     "22bfee93-2955-63af-070f-8c83af7c16d7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -484,6 +521,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground Large.mesh.nasset/Ground Large.mesh.nasset",
+        "thumbnail": "e0668e88-42ed-bf31-ed9e-4a3d8c48f13e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -507,9 +545,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "258a9f45-3f1c-ab7e-403f-2b1649fdf022": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Small.mesh.nasset/Thumbnails/Train Track Small.mesh.nasset.tex.nasset"
+    },
     "25caecec-3383-39e8-1975-540ffc1b6964": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Rover_Thumb.tex.nasset"
+    },
+    "2642ba99-59a3-be38-3313-eef4f74f853a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
     },
     "272e06ea-1632-3164-87a7-59aa60fa0efa": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -523,10 +569,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "28040ef3-d99d-bb62-61af-64fa11d1531e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Pebbles 01.mesh.nasset/Thumbnails/Pebbles 01.mesh.nasset.tex.nasset"
+    },
     "291d3833-1816-4bdb-a4db-a65639fe7d39": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Corridor.mesh.nasset/Building Corridor.mesh.nasset",
+        "thumbnail": "6aef9882-77c7-6d43-6d27-9a77f1e809ad",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -574,6 +625,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 03.mesh.nasset/Landscape 03.mesh.nasset",
+        "thumbnail": "57192194-20b7-0c33-556b-7aabfc49b548",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -599,6 +651,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2b42937a-daf0-a9bc-0429-43bbef324cfe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 02.mesh.nasset/Thumbnails/Mound 02.mesh.nasset.tex.nasset"
+    },
+    "2b62e29e-4da1-a4c6-c5aa-5e40262f4c7d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Office Chair.mesh.nasset/Thumbnails/Office Chair.mesh.nasset.tex.nasset"
+    },
+    "2cb6cd32-b55d-2215-4d39-f8d4c58a1598": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Structure.mesh.nasset/Thumbnails/Structure.mesh.nasset.tex.nasset"
+    },
     "2cbae95f-4a26-4258-c55a-a320c44b72d0": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -622,6 +686,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "2dccd768-b02b-90cf-1c1c-1ca6752bd060": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 01.mesh.nasset/Thumbnails/Landscape 01.mesh.nasset.tex.nasset"
     },
     "2dec4e8e-4014-0923-70c6-9dba8e5c002c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -666,6 +734,7 @@
     "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Metal Red.mtli.nasset",
+        "thumbnail": "b5e0b4a6-9c7c-c214-9f09-1eeac8f0323c",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -686,6 +755,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Double.mesh.nasset/Turret Double.mesh.nasset",
+        "thumbnail": "3bc05723-1055-9834-8920-ebdeed16478c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -703,6 +773,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x4.mesh.nasset/Turbine x4.mesh.nasset",
+        "thumbnail": "b8a8ae98-5186-32ce-84a7-ae32fa5d203b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -717,6 +788,10 @@
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "e87cbbbe-24bc-8903-37e8-eb53de844877"
         ]
+    },
+    "32f38eb7-c339-d769-1b29-ace8aecc24e6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rover.mesh.nasset/Thumbnails/Rover.mesh.nasset.tex.nasset"
     },
     "330a62ee-2704-23cd-de48-ca3fb1c601ef": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -734,6 +809,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 03.mesh.nasset/Mound 03.mesh.nasset",
+        "thumbnail": "6018d544-530c-10ec-91e5-16f302cbbb1c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -745,10 +821,15 @@
             "d8c692bd-060f-bc32-3d20-6c9e2178e6e0"
         ]
     },
+    "33e32ce4-163d-ffb7-611a-6df356544151": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Rock.mtli.nasset.tex.nasset"
+    },
     "342537a6-2a11-6fee-3a86-0c36208ecdfd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Medium.mesh.nasset/Train Track Medium.mesh.nasset",
+        "thumbnail": "ba904559-5144-cacc-8e28-11789cacf231",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -766,6 +847,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rail Corner.mesh.nasset/Rail Corner.mesh.nasset",
+        "thumbnail": "f0cdedf0-6830-99cf-1fc5-9d35c0e7fca6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -776,6 +858,14 @@
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "1d0add08-cf06-1e51-4246-5cbf72e6ec81"
         ]
+    },
+    "355cc3ac-1150-b923-5e22-70a8dda678e2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road T Junction.mesh.nasset/Thumbnails/Road T Junction.mesh.nasset.tex.nasset"
+    },
+    "357dabe1-1608-539d-2ffe-bfa40a5fe015": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform Low.mesh.nasset/Thumbnails/Platform Low.mesh.nasset.tex.nasset"
     },
     "35bb6f33-4c37-0eb7-0b46-fbd865be41d9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -829,6 +919,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 04.mesh.nasset/Mound 04.mesh.nasset",
+        "thumbnail": "20b2f53d-e1d8-2e66-590e-ac8111a5774c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -839,6 +930,10 @@
             "c3b77add-7197-881e-456b-b0bd6b4a8525",
             "da8936eb-b630-9352-ba0c-bfc7f7eb5d58"
         ]
+    },
+    "3a48fcca-1613-2bd4-e96a-1616f716315a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 06.mesh.nasset/Thumbnails/Mound 06.mesh.nasset.tex.nasset"
     },
     "3a521760-4d2b-f1de-cd27-58d5d00c42a6": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -852,10 +947,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3b11be9a-c62a-1996-438a-c9332343ffe3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 05.mesh.nasset/Thumbnails/Mound 05.mesh.nasset.tex.nasset"
+    },
+    "3bc05723-1055-9834-8920-ebdeed16478c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Double.mesh.nasset/Thumbnails/Turret Double.mesh.nasset.tex.nasset"
+    },
     "3c869cff-0ca6-6a83-ddb2-96d0a1a37abb": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform Large.mesh.nasset/Platform Large.mesh.nasset",
+        "thumbnail": "1c907fe2-bfba-08a7-d728-cdac310079b8",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -873,6 +977,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Small.mesh.nasset/Train Track Small.mesh.nasset",
+        "thumbnail": "258a9f45-3f1c-ab7e-403f-2b1649fdf022",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -894,6 +999,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Pebbles 01.mesh.nasset/Pebbles 01.mesh.nasset",
+        "thumbnail": "28040ef3-d99d-bb62-61af-64fa11d1531e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -943,6 +1049,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 02.mesh.nasset/Landscape 02.mesh.nasset",
+        "thumbnail": "520c0dba-8d9c-782b-7020-98886a39d530",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1000,10 +1107,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "47332ce1-8109-6fc2-84f2-bfda509ca146": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Hangar Open.mesh.nasset/Thumbnails/Hangar Open.mesh.nasset.tex.nasset"
+    },
     "489d0b2f-aeda-1f73-e233-4ac682a70e90": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Barrels.mesh.nasset/Barrels.mesh.nasset",
+        "thumbnail": "5806315f-ab9d-eec9-e76d-1286741b4e1b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1065,10 +1177,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Turret_Base_Thumb.tex.nasset"
     },
+    "4af3360a-da94-3d84-1f98-c78c201a235e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Single.mesh.nasset/Thumbnails/Turret Single.mesh.nasset.tex.nasset"
+    },
     "4bcce232-404f-84ff-1f07-8260ab79dc00": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Large.mesh.nasset/Train Track Large.mesh.nasset",
+        "thumbnail": "20a390f6-202b-24b8-c91b-2d08c21348f4",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1114,10 +1231,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Spaceship_Thumb.tex.nasset"
     },
+    "520c0dba-8d9c-782b-7020-98886a39d530": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 02.mesh.nasset/Thumbnails/Landscape 02.mesh.nasset.tex.nasset"
+    },
     "52f052c1-12c1-cbc6-1282-ff57bc6c3800": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 01.mesh.nasset/Mound 01.mesh.nasset",
+        "thumbnail": "e34e0625-e4d2-e020-271e-711de7dcaabe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1133,6 +1255,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road Corner.mesh.nasset/Road Corner.mesh.nasset",
+        "thumbnail": "9f45e71c-5037-0c50-1431-e3e4dacd1b71",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1157,6 +1280,10 @@
             "dc3d3b1b-5dc1-37b6-ffb4-461b207877e2",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "54038263-d48a-5b6e-8e6d-bb3e0efd80bf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocketship Large.mesh.nasset/Thumbnails/Rocketship Large.mesh.nasset.tex.nasset"
     },
     "547887f0-d8ef-1ee1-fe28-ac59c76a2072": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1194,6 +1321,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "55606709-6a85-60d7-ff98-1df766adc031": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocks 01.mesh.nasset/Thumbnails/Rocks 01.mesh.nasset.tex.nasset"
+    },
     "56ad54ec-b7f5-2daf-8bf6-1ddfefb59fee": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1217,6 +1348,14 @@
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "57192194-20b7-0c33-556b-7aabfc49b548": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 03.mesh.nasset/Thumbnails/Landscape 03.mesh.nasset.tex.nasset"
+    },
+    "5806315f-ab9d-eec9-e76d-1286741b4e1b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Barrels.mesh.nasset/Thumbnails/Barrels.mesh.nasset.tex.nasset"
     },
     "58351773-dcbb-f76b-4128-e9df2bfe1273": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1294,6 +1433,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x2.mesh.nasset/Turbine x2.mesh.nasset",
+        "thumbnail": "0de42586-642f-c54b-936d-e3ddd5496282",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1325,6 +1465,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Crater.mesh.nasset/Crater.mesh.nasset",
+        "thumbnail": "aa90179e-7a00-b44b-1a72-064a6fb0097a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1339,6 +1480,10 @@
     "5bed9e36-4530-6842-358b-995d81cee5da": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Rail_Thumb.tex.nasset"
+    },
+    "5c5a82ba-6a4f-9c85-7e61-8781bcb70ae5": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x6.mesh.nasset/Thumbnails/Turbine x6.mesh.nasset.tex.nasset"
     },
     "5d0a3605-21a8-ee34-0873-7a750ff27c91": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1400,6 +1545,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "5ef01395-bf5b-c803-5a87-4226ae98e7d7": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Bones.mesh.nasset/Thumbnails/Bones.mesh.nasset.tex.nasset"
+    },
     "5f05f767-1aa0-3cf5-4d77-42518ac71ad2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1435,6 +1584,10 @@
             "111d2b63-bb95-ab8d-78da-f2c040ca2cd3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "6018d544-530c-10ec-91e5-16f302cbbb1c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 03.mesh.nasset/Thumbnails/Mound 03.mesh.nasset.tex.nasset"
     },
     "61fdeb2d-40ea-a283-e6ec-15c4389e0c5b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1480,6 +1633,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Double.mesh.nasset/Building Double.mesh.nasset",
+        "thumbnail": "05293e10-7068-20a8-6b5e-d2cf4151d6eb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1529,6 +1683,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "6aef9882-77c7-6d43-6d27-9a77f1e809ad": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Corridor.mesh.nasset/Thumbnails/Building Corridor.mesh.nasset.tex.nasset"
+    },
     "6b010141-03d7-7ac2-96d1-60ae3b5eb796": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1573,6 +1731,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Cargo.mesh.nasset/Train Cargo.mesh.nasset",
+        "thumbnail": "e2b33a92-8f2a-d1ec-2884-29dbea1c8a4b",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1606,6 +1765,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Hangar Open.mesh.nasset/Hangar Open.mesh.nasset",
+        "thumbnail": "47332ce1-8109-6fc2-84f2-bfda509ca146",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1618,6 +1778,10 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "6bcedc0e-e2d7-9f94-f887-675d0e7a9cc8"
         ]
+    },
+    "6d4ff83a-fb2f-831a-b9bb-175d1c603a79": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground.mesh.nasset/Thumbnails/Ground.mesh.nasset.tex.nasset"
     },
     "6de71838-d607-a510-f877-1ccf0688c98c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1663,6 +1827,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 02.mesh.nasset/Mound 02.mesh.nasset",
+        "thumbnail": "2b42937a-daf0-a9bc-0429-43bbef324cfe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1678,6 +1843,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road End.mesh.nasset/Road End.mesh.nasset",
+        "thumbnail": "bd414b52-cc40-aaef-36e4-7deb7fd145ca",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1723,6 +1889,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Computer.mesh.nasset/Computer.mesh.nasset",
+        "thumbnail": "8917cd3d-2caa-ef4a-38c0-931af93ae58f",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1776,6 +1943,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "77e104ef-8841-85ef-f2d6-6f50b64f9f2d": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Machine Cabled.mesh.nasset/Thumbnails/Machine Cabled.mesh.nasset.tex.nasset"
+    },
     "782ed8f1-ac3b-1aa2-fc6a-35c4a96b0187": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1788,9 +1959,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "786d95c2-72c2-0aeb-3a08-7b2e6c12cabf": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Generator.mesh.nasset/Thumbnails/Generator.mesh.nasset.tex.nasset"
+    },
     "78d33208-47e4-571f-5fa2-dc9e11ca3b9f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Metal Dark.mtli.nasset",
+        "thumbnail": "203b4a4c-5b01-72ef-9e49-7c7194e61e27",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1831,6 +2007,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "7d27e5a5-278d-758b-4ba5-49a8c774dabb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Single.mesh.nasset/Thumbnails/Building Single.mesh.nasset.tex.nasset"
+    },
     "7e0571b9-8cbc-779a-6b4a-251b389f7c1e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Structure_Thumb.tex.nasset"
@@ -1842,6 +2022,7 @@
     "7f3d7071-0a32-a868-e744-ec39f3ceacd7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Metal.mtli.nasset",
+        "thumbnail": "f060aa09-ccbf-3a66-218c-07cd4662a429",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1857,6 +2038,10 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "8093d60f-e7e4-f450-a9e6-165cc3221bbe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Passenger.mesh.nasset/Thumbnails/Train Passenger.mesh.nasset.tex.nasset"
     },
     "810d1092-70cb-23d9-2c24-e4c06247e59f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1874,6 +2059,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 06.mesh.nasset/Mound 06.mesh.nasset",
+        "thumbnail": "3a48fcca-1613-2bd4-e96a-1616f716315a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1884,6 +2070,10 @@
             "c3b77add-7197-881e-456b-b0bd6b4a8525",
             "5b6b7ee4-d8df-9536-299b-3557dabd5555"
         ]
+    },
+    "82893b7a-7b1d-c3d3-9dbc-279cb7111a07": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Spaceship.mesh.nasset/Thumbnails/Spaceship.mesh.nasset.tex.nasset"
     },
     "82badabd-b2ee-78a7-f599-b90dbbaa9ac1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1913,6 +2103,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x6.mesh.nasset/Turbine x6.mesh.nasset",
+        "thumbnail": "5c5a82ba-6a4f-9c85-7e61-8781bcb70ae5",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -1952,9 +2143,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "846e1eb1-0a06-0a30-ad6e-53a2f3f6ea17": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocketship Small.mesh.nasset/Thumbnails/Rocketship Small.mesh.nasset.tex.nasset"
+    },
+    "85218873-be91-7f7b-1bc5-9febebdf472f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 04.mesh.nasset/Thumbnails/Landscape 04.mesh.nasset.tex.nasset"
+    },
     "85427cee-6c61-4853-eaac-63075d990b32": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rock.mtli.nasset",
+        "thumbnail": "33e32ce4-163d-ffb7-611a-6df356544151",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -1963,6 +2163,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocks 02.mesh.nasset/Rocks 02.mesh.nasset",
+        "thumbnail": "d5e9a62e-4906-8184-ef43-081acef23585",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2002,6 +2203,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocketship.mesh.nasset/Rocketship.mesh.nasset",
+        "thumbnail": "fa05653e-a8e4-a953-79b0-1244d3e63b68",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2023,6 +2225,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rail.mesh.nasset/Rail.mesh.nasset",
+        "thumbnail": "f56a0913-166e-d636-8d0d-0e21890c8c73",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2033,6 +2236,10 @@
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "036a8ed2-5a4a-fc74-7809-7149327087d9"
         ]
+    },
+    "87992e71-4a8e-cb33-2d22-b5277c490fb4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Bone.mtli.nasset.tex.nasset"
     },
     "8854ac43-7d3b-8a42-5862-ebd35078b808": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2046,10 +2253,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "8917cd3d-2caa-ef4a-38c0-931af93ae58f": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Computer.mesh.nasset/Thumbnails/Computer.mesh.nasset.tex.nasset"
+    },
     "8927c8af-9f7e-a7b9-701e-c05a1fe4d9d8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Barrels x2.mesh.nasset/Barrels x2.mesh.nasset",
+        "thumbnail": "952d9c02-9715-e358-ac0c-83fcfc0b28e3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2090,14 +2302,20 @@
     "8ab733f6-e43e-3332-04f4-3c92fbf250ff": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Dark.mtli.nasset",
+        "thumbnail": "17bbc97b-74c2-d8b8-8fc9-e47189d0969a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "8b56f437-cdb8-1cad-084f-45d8035557b9": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road Straight.mesh.nasset/Thumbnails/Road Straight.mesh.nasset.tex.nasset"
     },
     "8bc7fc76-c707-8b5c-81f8-496c5f722b0d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocketship Large.mesh.nasset/Rocketship Large.mesh.nasset",
+        "thumbnail": "54038263-d48a-5b6e-8e6d-bb3e0efd80bf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2131,6 +2349,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Structure.mesh.nasset/Structure.mesh.nasset",
+        "thumbnail": "2cb6cd32-b55d-2215-4d39-f8d4c58a1598",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2158,6 +2377,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 05.mesh.nasset/Mound 05.mesh.nasset",
+        "thumbnail": "3b11be9a-c62a-1996-438a-c9332343ffe3",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2177,6 +2397,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Spaceship.mesh.nasset/Spaceship.mesh.nasset",
+        "thumbnail": "82893b7a-7b1d-c3d3-9dbc-279cb7111a07",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2240,6 +2461,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocketship Small.mesh.nasset/Rocketship Small.mesh.nasset",
+        "thumbnail": "846e1eb1-0a06-0a30-ad6e-53a2f3f6ea17",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2256,6 +2478,14 @@
             "111d2b63-bb95-ab8d-78da-f2c040ca2cd3",
             "ace27ed7-5c3b-8af5-f261-915ae11f7aa2"
         ]
+    },
+    "951aaa09-85e9-40bc-cd73-8e16594ed324": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform High.mesh.nasset/Thumbnails/Platform High.mesh.nasset.tex.nasset"
+    },
+    "952d9c02-9715-e358-ac0c-83fcfc0b28e3": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Barrels x2.mesh.nasset/Thumbnails/Barrels x2.mesh.nasset.tex.nasset"
     },
     "95a23500-ef10-5a1b-eebf-57877a75c3f3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2285,6 +2515,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform Low.mesh.nasset/Platform Low.mesh.nasset",
+        "thumbnail": "357dabe1-1608-539d-2ffe-bfa40a5fe015",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2302,6 +2533,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Office Chair.mesh.nasset/Office Chair.mesh.nasset",
+        "thumbnail": "2b62e29e-4da1-a4c6-c5aa-5e40262f4c7d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2314,6 +2546,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "69ee6d8f-a46d-1df6-90da-943c3490b2d2"
         ]
+    },
+    "96e8e6e4-4719-7eb3-f1e2-ef0962df20a1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Front.mesh.nasset/Thumbnails/Train Front.mesh.nasset.tex.nasset"
     },
     "96fdf232-26df-3204-0d69-537150bcc935": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2331,6 +2567,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Generator.mesh.nasset/Generator.mesh.nasset",
+        "thumbnail": "786d95c2-72c2-0aeb-3a08-7b2e6c12cabf",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2443,6 +2680,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "99ad11c9-7185-45c9-0611-9be327c7a727": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Pebbles 02.mesh.nasset/Thumbnails/Pebbles 02.mesh.nasset.tex.nasset"
+    },
     "9cf77d70-d09f-396c-f8d5-3a441785deb9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Platform_Large_Thumb.tex.nasset"
@@ -2475,6 +2716,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rover.mesh.nasset/Rover.mesh.nasset",
+        "thumbnail": "32f38eb7-c339-d769-1b29-ace8aecc24e6",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2489,6 +2731,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "7501bfa4-dbd3-a705-464a-4b518641db9e"
         ]
+    },
+    "9f45e71c-5037-0c50-1431-e3e4dacd1b71": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road Corner.mesh.nasset/Thumbnails/Road Corner.mesh.nasset.tex.nasset"
     },
     "9fe28bfa-3b77-46fe-a754-3cfb0bd8fbf3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2542,6 +2788,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Single.mesh.nasset/Building Single.mesh.nasset",
+        "thumbnail": "7d27e5a5-278d-758b-4ba5-49a8c774dabb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2575,6 +2822,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Machine Wireless.mesh.nasset/Machine Wireless.mesh.nasset",
+        "thumbnail": "bf4c9a3e-0ee9-2c67-3a1a-0f8257a90f90",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2606,6 +2854,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a96c0d95-3710-90f6-fa40-eac6011ea737": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound Large.mesh.nasset/Thumbnails/Mound Large.mesh.nasset.tex.nasset"
+    },
     "a9775139-a3c4-63a0-0b0c-2cf6f98204fc": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2617,6 +2869,10 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "aa90179e-7a00-b44b-1a72-064a6fb0097a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Crater.mesh.nasset/Thumbnails/Crater.mesh.nasset.tex.nasset"
     },
     "ace27ed7-5c3b-8af5-f261-915ae11f7aa2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2634,6 +2890,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground.mesh.nasset/Ground.mesh.nasset",
+        "thumbnail": "6d4ff83a-fb2f-831a-b9bb-175d1c603a79",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2693,6 +2950,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road Straight.mesh.nasset/Road Straight.mesh.nasset",
+        "thumbnail": "8b56f437-cdb8-1cad-084f-45d8035557b9",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2710,6 +2968,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground Medium.mesh.nasset/Ground Medium.mesh.nasset",
+        "thumbnail": "ff316dc9-4ace-506f-6b78-286fcc4ab02c",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2745,6 +3004,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Satellite.mesh.nasset/Satellite.mesh.nasset",
+        "thumbnail": "1ea078d4-ff58-7009-66eb-5ca0c8250402",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2762,6 +3022,10 @@
             "2944e4d2-3b4e-9906-89f4-b43c5d9c2fcb"
         ]
     },
+    "b55091d9-af01-b80c-2abe-ba51cd6d71bb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Hangar Closed.mesh.nasset/Thumbnails/Hangar Closed.mesh.nasset.tex.nasset"
+    },
     "b5bf4ce2-4094-d752-cb1e-8aabf3bb69c8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2778,6 +3042,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Base.mesh.nasset/Turret Base.mesh.nasset",
+        "thumbnail": "de069674-4eae-eeba-92d7-07b52fb5932a",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2790,6 +3055,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "f25a67cd-8348-5fcc-33fc-4ac2486c7578"
         ]
+    },
+    "b5e0b4a6-9c7c-c214-9f09-1eeac8f0323c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Metal Red.mtli.nasset.tex.nasset"
     },
     "b6a8465c-3825-6e40-3ee4-9a5ee97ab097": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2811,6 +3080,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 01.mesh.nasset/Landscape 01.mesh.nasset",
+        "thumbnail": "2dccd768-b02b-90cf-1c1c-1ca6752bd060",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2848,10 +3118,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b8a8ae98-5186-32ce-84a7-ae32fa5d203b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x4.mesh.nasset/Thumbnails/Turbine x4.mesh.nasset.tex.nasset"
+    },
     "b9ccb190-869b-6870-8642-9b8de18e3988": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Front.mesh.nasset/Train Front.mesh.nasset",
+        "thumbnail": "96e8e6e4-4719-7eb3-f1e2-ef0962df20a1",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -2877,9 +3152,17 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ba904559-5144-cacc-8e28-11789cacf231": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Medium.mesh.nasset/Thumbnails/Train Track Medium.mesh.nasset.tex.nasset"
+    },
     "bb0a2326-980b-afca-46d7-d9355021ad9b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Pebbles_01_Thumb.tex.nasset"
+    },
+    "bd414b52-cc40-aaef-36e4-7deb7fd145ca": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road End.mesh.nasset/Thumbnails/Road End.mesh.nasset.tex.nasset"
     },
     "be634cb2-ec36-7a82-641b-bca62dd74d12": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2904,6 +3187,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "bf4c9a3e-0ee9-2c67-3a1a-0f8257a90f90": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Machine Wireless.mesh.nasset/Thumbnails/Machine Wireless.mesh.nasset.tex.nasset"
     },
     "bf5ef076-089b-49f4-8530-b2129925edbd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2968,6 +3255,7 @@
     "c3b77add-7197-881e-456b-b0bd6b4a8525": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rock Dark.mtli.nasset",
+        "thumbnail": "eedc2363-b70e-9844-4a58-210f8b0a3077",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -2988,6 +3276,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Machine Cabled.mesh.nasset/Machine Cabled.mesh.nasset",
+        "thumbnail": "77e104ef-8841-85ef-f2d6-6f50b64f9f2d",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3059,6 +3348,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road T Junction.mesh.nasset/Road T Junction.mesh.nasset",
+        "thumbnail": "355cc3ac-1150-b923-5e22-70a8dda678e2",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3120,6 +3410,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Single.mesh.nasset/Turret Single.mesh.nasset",
+        "thumbnail": "4af3360a-da94-3d84-1f98-c78c201a235e",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3177,6 +3468,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound Large.mesh.nasset/Mound Large.mesh.nasset",
+        "thumbnail": "a96c0d95-3710-90f6-fa40-eac6011ea737",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3192,6 +3484,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform High.mesh.nasset/Platform High.mesh.nasset",
+        "thumbnail": "951aaa09-85e9-40bc-cd73-8e16594ed324",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3218,6 +3511,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "d5e9a62e-4906-8184-ef43-081acef23585": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocks 02.mesh.nasset/Thumbnails/Rocks 02.mesh.nasset.tex.nasset"
     },
     "d6af7cc3-a521-e582-b5b4-f35e247a514e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3297,9 +3594,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "dc2b87fa-65af-6ec1-d5dd-c7199ca0bf02": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound.mesh.nasset/Thumbnails/Mound.mesh.nasset.tex.nasset"
+    },
     "dc3d3b1b-5dc1-37b6-ffb4-461b207877e2": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Rock Track.mtli.nasset",
+        "thumbnail": "faf786ed-660b-dac5-834a-9c3d01ce0a58",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3307,6 +3609,10 @@
     "dddfed2d-3123-5c30-4efe-5b32569ab86a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Building_Double_Thumb.tex.nasset"
+    },
+    "de069674-4eae-eeba-92d7-07b52fb5932a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Base.mesh.nasset/Thumbnails/Turret Base.mesh.nasset.tex.nasset"
     },
     "df8d5011-5de9-cf87-7fe0-5ab8bc39a33a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3320,9 +3626,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "e01a1aac-2e96-8a4d-0740-f1df1dfe8bd6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Barrels x4.mesh.nasset/Thumbnails/Barrels x4.mesh.nasset.tex.nasset"
+    },
+    "e0668e88-42ed-bf31-ed9e-4a3d8c48f13e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground Large.mesh.nasset/Thumbnails/Ground Large.mesh.nasset.tex.nasset"
+    },
     "e2027467-79b6-2d07-4934-fafc49ac596a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Platform_Low_Thumb.tex.nasset"
+    },
+    "e2b33a92-8f2a-d1ec-2884-29dbea1c8a4b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Cargo.mesh.nasset/Thumbnails/Train Cargo.mesh.nasset.tex.nasset"
+    },
+    "e34e0625-e4d2-e020-271e-711de7dcaabe": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 01.mesh.nasset/Thumbnails/Mound 01.mesh.nasset.tex.nasset"
     },
     "e3c16d53-a3ee-422b-83f1-ae22d0b82c01": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3340,6 +3662,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Pebbles 02.mesh.nasset/Pebbles 02.mesh.nasset",
+        "thumbnail": "99ad11c9-7185-45c9-0611-9be327c7a727",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3445,6 +3768,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound.mesh.nasset/Mound.mesh.nasset",
+        "thumbnail": "dc2b87fa-65af-6ec1-d5dd-c7199ca0bf02",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3532,6 +3856,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "eedc2363-b70e-9844-4a58-210f8b0a3077": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Rock Dark.mtli.nasset.tex.nasset"
+    },
     "eee8e4f3-7228-61bc-0e57-2cde396ef9f5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3544,6 +3872,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f060aa09-ccbf-3a66-218c-07cd4662a429": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Metal.mtli.nasset.tex.nasset"
+    },
     "f0c25019-3f1b-af0f-52e7-7d2e5a3bcf74": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3555,6 +3887,10 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "f0cdedf0-6830-99cf-1fc5-9d35c0e7fca6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rail Corner.mesh.nasset/Thumbnails/Rail Corner.mesh.nasset.tex.nasset"
     },
     "f1f923f3-8c4d-b297-baf8-e3c7861c3f1f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3584,6 +3920,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Mound_Large_Thumb.tex.nasset"
     },
+    "f56a0913-166e-d636-8d0d-0e21890c8c73": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rail.mesh.nasset/Thumbnails/Rail.mesh.nasset.tex.nasset"
+    },
     "f60db358-7ba1-0394-4d46-cac73afa4f9b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3603,6 +3943,7 @@
     "f65019c6-3003-862a-7300-cdc0e9c0e9ea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Bone.mtli.nasset",
+        "thumbnail": "87992e71-4a8e-cb33-2d22-b5277c490fb4",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
@@ -3663,10 +4004,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fa05653e-a8e4-a953-79b0-1244d3e63b68": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rocketship.mesh.nasset/Thumbnails/Rocketship.mesh.nasset.tex.nasset"
+    },
     "fa666eb6-31aa-2601-c7d8-f70d1b8fe924": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Hangar Closed.mesh.nasset/Hangar Closed.mesh.nasset",
+        "thumbnail": "b55091d9-af01-b80c-2abe-ba51cd6d71bb",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3682,6 +4028,10 @@
             "0b60c46e-ab05-623c-e8b4-2405be3f05ca"
         ]
     },
+    "faf786ed-660b-dac5-834a-9c3d01ce0a58": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/Material Instances/Thumbnails/Rock Track.mtli.nasset.tex.nasset"
+    },
     "fb04eeea-8274-bb5b-1b21-a9ab3fd91780": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Train_Track_Large_Thumb.tex.nasset"
@@ -3690,6 +4040,7 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Passenger.mesh.nasset/Train Passenger.mesh.nasset",
+        "thumbnail": "8093d60f-e7e4-f450-a9e6-165cc3221bbe",
         "tags": [
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ],
@@ -3724,6 +4075,10 @@
     "fe371605-7d22-8b15-8172-7f251da24de4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Thumbnails/Building_Corridot_Thumb.tex.nasset"
+    },
+    "ff316dc9-4ace-506f-6b78-286fcc4ab02c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground Medium.mesh.nasset/Thumbnails/Ground Medium.mesh.nasset.tex.nasset"
     },
     "ff31d630-ee57-7b57-e24e-9cb4fdf68b43": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
