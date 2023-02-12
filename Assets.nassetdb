@@ -289,10 +289,6 @@
             "b031c33e-1e11-7519-d484-3b6ba9585632"
         ]
     },
-    "13e940e2-262c-5ca9-5195-87a790b76be5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_03_Thumb.tex.nasset"
-    },
     "14582f21-9e74-3d13-3767-4c0c50dfc7fe": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -305,10 +301,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "152dcf00-0531-baf4-ead4-bc417292a76a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Crater_Thumb.tex.nasset"
-    },
     "1738a80a-8e17-d63e-40a0-bd152b27a0e7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -320,10 +312,6 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "17a6e222-47bb-9e99-d2fd-f0efd638b6a3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_Thumb.tex.nasset"
     },
     "17bbc97b-74c2-d8b8-8fc9-e47189d0969a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -364,10 +352,6 @@
             "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "1a082752-35e4-1841-602c-1259af1e668a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_End_Thumb.tex.nasset"
     },
     "1b7fb589-a3b6-e8fe-2257-f8d2b5ad0973": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -549,10 +533,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Small.mesh.nasset/Thumbnails/Train Track Small.mesh.nasset.tex.nasset"
     },
-    "25caecec-3383-39e8-1975-540ffc1b6964": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rover_Thumb.tex.nasset"
-    },
     "2642ba99-59a3-be38-3313-eef4f74f853a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/White.mtli.nasset.tex.nasset"
@@ -604,10 +584,6 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "2962d4af-cab3-6f50-ef72-fd5e11452752": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Turbine_x6_Thumb.tex.nasset"
     },
     "29a9d826-d2fd-dfa5-85f9-f9100db55067": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -690,10 +666,6 @@
     "2dccd768-b02b-90cf-1c1c-1ca6752bd060": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Landscape 01.mesh.nasset/Thumbnails/Landscape 01.mesh.nasset.tex.nasset"
-    },
-    "2dec4e8e-4014-0923-70c6-9dba8e5c002c": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ground_Large_Thumb.tex.nasset"
     },
     "2e3e6ed8-7850-1e91-18f3-bf4461712240": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -867,10 +839,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Platform Low.mesh.nasset/Thumbnails/Platform Low.mesh.nasset.tex.nasset"
     },
-    "35bb6f33-4c37-0eb7-0b46-fbd865be41d9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Hangar_Open_Thumb.tex.nasset"
-    },
     "360166dc-dbed-83bc-a5bc-e0f3dbb34ea5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -882,14 +850,6 @@
             "111d2b63-bb95-ab8d-78da-f2c040ca2cd3",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "37e1265f-c1e1-db1c-71d3-d8f953d2b9db": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Train_Cargo_Thumb.tex.nasset"
-    },
-    "381b3a85-d944-56da-20bd-dcf21b4521a4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rail_Corner_Thumb.tex.nasset"
     },
     "3999c3d0-4912-0bbe-8096-6e192e5c3200": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -991,10 +951,6 @@
             "19e5729f-8674-9a98-6358-de0e4e7457c8"
         ]
     },
-    "3ec92554-6337-cbb6-9d55-1e6d17d09d25": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rocketship_Thumb.tex.nasset"
-    },
     "3f01f3c2-7f59-8e1f-4dda-735b43118836": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1091,10 +1047,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "454b1f79-6c33-86e6-376b-ab86d9004795": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Barrels_x4_Thumb.tex.nasset"
-    },
     "46f6f0a1-2a0a-f3ea-d212-cb54d2db131d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1153,10 +1105,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "498e305f-ee22-107e-b281-6390c3691744": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Train_Passenger_Thumb.tex.nasset"
-    },
     "49a8ffd5-3b03-62ac-aaf6-2a34ba32c0b2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1168,14 +1116,6 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "49cd5766-9da6-3a3d-0ec0-34664264d0d4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ground_Thumb.tex.nasset"
-    },
-    "49f0e77a-6d7a-7e36-eadc-0a0e8be50b5f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Turret_Base_Thumb.tex.nasset"
     },
     "4af3360a-da94-3d84-1f98-c78c201a235e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1226,10 +1166,6 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "4fa82977-fcff-9bb6-3a6a-7b829fee04b4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Spaceship_Thumb.tex.nasset"
     },
     "520c0dba-8d9c-782b-7020-98886a39d530": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1477,10 +1413,6 @@
             "453e4aae-3d22-ffd5-d22c-24c22db913bd"
         ]
     },
-    "5bed9e36-4530-6842-358b-995d81cee5da": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rail_Thumb.tex.nasset"
-    },
     "5c5a82ba-6a4f-9c85-7e61-8781bcb70ae5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turbine x6.mesh.nasset/Thumbnails/Turbine x6.mesh.nasset.tex.nasset"
@@ -1589,10 +1521,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Mound 03.mesh.nasset/Thumbnails/Mound 03.mesh.nasset.tex.nasset"
     },
-    "61fdeb2d-40ea-a283-e6ec-15c4389e0c5b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Train_Track_Small_Thumb.tex.nasset"
-    },
     "62c20b15-8fc8-e24f-6dbd-97351952318e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1651,10 +1579,6 @@
             "5bb58fc5-eeed-bb05-09cf-6f8cff2adc7e"
         ]
     },
-    "657c15fb-b2a6-5162-188a-10c1cf8a68e3": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Turret_Double_Thumb.tex.nasset"
-    },
     "65d83740-fbc1-b1eb-5d2b-3c12807dc147": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1666,10 +1590,6 @@
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "69ce095e-babe-32af-8417-fba4c161a7ee": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rocketship_Small_Thumb.tex.nasset"
     },
     "69ee6d8f-a46d-1df6-90da-943c3490b2d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1722,10 +1642,6 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "6bf513c6-08fb-d136-6ecf-4f24c9fdcc13": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Platform_High_Thumb.tex.nasset"
     },
     "6c713ee1-8ad3-29d5-f5e7-eeb74feb005a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1869,10 +1785,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7247810c-9f3a-41d2-1ef2-31d6de794b83": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rocks_01_Thumb.tex.nasset"
-    },
     "732bcbed-6912-133f-354e-b6adc286861e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1914,10 +1826,6 @@
             "78d33208-47e4-571f-5fa2-dc9e11ca3b9f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "766697d9-e11c-edd9-2c2a-0814a7814616": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Satellite_Thumb.tex.nasset"
     },
     "7732682a-b66b-27d1-6401-721e0bb7f35d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1983,18 +1891,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "79b88217-d105-9ca2-3800-835e5614a416": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Machine_Wireless_Thumb.tex.nasset"
-    },
-    "7a7e6de3-f646-87b5-b965-8b8f6f4feb78": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Landscape_03_Thumb.tex.nasset"
-    },
-    "7abfecb5-fa70-092a-6d35-292d4082381e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Turbine_x4_Thumb.tex.nasset"
-    },
     "7add73c1-39e3-9ab4-748b-bb7458213b96": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2010,14 +1906,6 @@
     "7d27e5a5-278d-758b-4ba5-49a8c774dabb": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Building Single.mesh.nasset/Thumbnails/Building Single.mesh.nasset.tex.nasset"
-    },
-    "7e0571b9-8cbc-779a-6b4a-251b389f7c1e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Structure_Thumb.tex.nasset"
-    },
-    "7ea4c912-e1ab-3e44-8c79-276ff859a16d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Ground_Medium_Thumb.tex.nasset"
     },
     "7f3d7071-0a32-a868-e744-ec39f3ceacd7": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2389,10 +2277,6 @@
             "43133ce4-7163-16cd-a1da-0c141e3b76fd"
         ]
     },
-    "91f8a16e-d727-afba-ebe5-fee0e0ae827d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_T_Junction_Thumb.tex.nasset"
-    },
     "925bc9ac-16bc-9d16-2efe-76fd36013805": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2425,10 +2309,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "93121733-5bff-3016-c8ce-fa2058d47153": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Train_Front_Thumb.tex.nasset"
-    },
     "93549d5e-ebb7-0283-4933-e71356fcb38b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2440,10 +2320,6 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "93a13eaa-d966-81ad-2973-88a09e55cc05": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Train_Track_Medium_Thumb.tex.nasset"
     },
     "93ea2deb-d87b-aba3-700e-42e097b8e7d2": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2664,10 +2540,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "987c45b4-4929-ccfc-face-940f683e526d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_06_Thumb.tex.nasset"
-    },
     "9943e6dd-f2f8-cad9-bdbd-71741f1a2c79": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2683,10 +2555,6 @@
     "99ad11c9-7185-45c9-0611-9be327c7a727": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Pebbles 02.mesh.nasset/Thumbnails/Pebbles 02.mesh.nasset.tex.nasset"
-    },
-    "9cf77d70-d09f-396c-f8d5-3a441785deb9": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Platform_Large_Thumb.tex.nasset"
     },
     "9e2760fe-f87f-6918-9d52-af9559261dc5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2748,10 +2616,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "a0596788-9f23-0e52-3032-2009d72f28ee": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Straight_Thumb.tex.nasset"
-    },
     "a069ef0f-3327-3fee-bd2a-98a61400530c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2763,10 +2627,6 @@
             "3279d3ac-6324-e0d3-1ff4-afbc7bd2e122",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "a06f8f1c-4e4e-5fd3-8e56-10fc9e5d5b76": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_02_Thumb.tex.nasset"
     },
     "a20ac10a-d448-3942-ee7e-30a3f340c214": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2837,10 +2697,6 @@
             "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
             "6b010141-03d7-7ac2-96d1-60ae3b5eb796"
         ]
-    },
-    "a9152661-5a63-cea3-345e-3fe49d4b8649": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Landscape_04_Thumb.tex.nasset"
     },
     "a9212ba2-c243-c721-4578-f82a664da92d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2938,14 +2794,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "b2bd75bc-34da-6ab4-96fb-485d3f4f06e2": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Building_Single_Thumb.tex.nasset"
-    },
-    "b2c8715b-697d-1ffc-dd68-16afd2bb64c8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Computer_Thumb.tex.nasset"
-    },
     "b2ea9aa8-e7e8-2173-255b-7ee8f78a8163": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2980,10 +2828,6 @@
             "e4345e9e-4e51-f881-99ba-5c2cc5558823"
         ]
     },
-    "b3c475af-252c-0810-fd96-c3f966c2a73a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Landscape_02_Thumb.tex.nasset"
-    },
     "b43e384f-c54f-b168-35a7-8754fcf938de": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2995,10 +2839,6 @@
             "85427cee-6c61-4853-eaac-63075d990b32",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "b4ab7844-5dcd-c4aa-365c-67dfceabba45": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Bones_Thumb.tex.nasset"
     },
     "b4f6849f-3fcf-1827-64f9-0c9af0e4ff72": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3071,10 +2911,6 @@
             "85427cee-6c61-4853-eaac-63075d990b32",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "b7139b5f-8065-a89c-17db-4aa45d43ab4d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_01_Thumb.tex.nasset"
     },
     "b7946fed-68b9-2087-68f3-a43b99942f43": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3156,10 +2992,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Train Track Medium.mesh.nasset/Thumbnails/Train Track Medium.mesh.nasset.tex.nasset"
     },
-    "bb0a2326-980b-afca-46d7-d9355021ad9b": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pebbles_01_Thumb.tex.nasset"
-    },
     "bd414b52-cc40-aaef-36e4-7deb7fd145ca": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Road End.mesh.nasset/Thumbnails/Road End.mesh.nasset.tex.nasset"
@@ -3228,18 +3060,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c07aaee7-f07a-8baa-3336-ad88af402100": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rocketship_Large_Thumb.tex.nasset"
-    },
-    "c1ac9bf7-2446-fc1e-6c20-60781531d052": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Hangar_Closed_Thumb.tex.nasset"
-    },
-    "c2871e29-d485-0a53-bd43-d797be047951": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Landscape_01_Thumb.tex.nasset"
-    },
     "c37ada0c-7df1-9b91-0852-6b0f47159abd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3304,10 +3124,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c58eae1b-1e96-45f8-c12f-8ebce254e57f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Pebbles_02_Thumb.tex.nasset"
-    },
     "c6e462e8-b4ae-5acc-5cb6-cfa40b7d5b35": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3362,10 +3178,6 @@
             "cc004c6a-4cf5-595d-62a3-3c5d6bf02bda"
         ]
     },
-    "c87f3771-78e9-f4d9-aa50-62d4bbc07960": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Rocks_02_Thumb.tex.nasset"
-    },
     "c8c8ef46-5ff0-c234-bfcf-b388475c4d3b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3389,10 +3201,6 @@
             "85427cee-6c61-4853-eaac-63075d990b32",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "cbdfb829-e9aa-1a71-1794-305d6f0b1a65": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Road_Corner_Thumb.tex.nasset"
     },
     "cc004c6a-4cf5-595d-62a3-3c5d6bf02bda": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3435,10 +3243,6 @@
             "85427cee-6c61-4853-eaac-63075d990b32",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "d001957b-a5af-bc6d-0f85-0959dab4c9f1": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_04_Thumb.tex.nasset"
     },
     "d001e9f7-9347-f46d-d9d3-e276ff615052": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3606,10 +3410,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "dddfed2d-3123-5c30-4efe-5b32569ab86a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Building_Double_Thumb.tex.nasset"
-    },
     "de069674-4eae-eeba-92d7-07b52fb5932a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Turret Base.mesh.nasset/Thumbnails/Turret Base.mesh.nasset.tex.nasset"
@@ -3633,10 +3433,6 @@
     "e0668e88-42ed-bf31-ed9e-4a3d8c48f13e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Ground Large.mesh.nasset/Thumbnails/Ground Large.mesh.nasset.tex.nasset"
-    },
-    "e2027467-79b6-2d07-4934-fafc49ac596a": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Platform_Low_Thumb.tex.nasset"
     },
     "e2b33a92-8f2a-d1ec-2884-29dbea1c8a4b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3699,10 +3495,6 @@
             "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "e5a58bfb-a7b3-38ed-4789-138b7edad4cc": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Generator_Thumb.tex.nasset"
     },
     "e5cfae7d-1751-2bf8-b652-dd4e7cd7bad8": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3804,14 +3596,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "ea198e98-48e0-56ea-1fcb-56a56a636212": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Machine_Cabled_Thumb.tex.nasset"
-    },
-    "eb035470-906e-52f9-5524-51ba01e5f4e5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Turbine_x2_Thumb.tex.nasset"
-    },
     "eb2d7be6-b231-b7db-e459-b8dd1a13fe42": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3823,14 +3607,6 @@
             "7f3d7071-0a32-a868-e744-ec39f3ceacd7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "ece236d3-03b8-bdb3-971a-fa332272bb22": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_05_Thumb.tex.nasset"
-    },
-    "ed5b17a0-9e42-2642-b325-46382adeb325": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Turret_Single_Thumb.tex.nasset"
     },
     "ed8f3bc6-cb2f-e839-faeb-b728ae8c3923": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3916,10 +3692,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "f2738039-31d6-c491-8c0c-fecc111b0516": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Mound_Large_Thumb.tex.nasset"
-    },
     "f56a0913-166e-d636-8d0d-0e21890c8c73": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Rogue_Mars.scene.nasset/Rail.mesh.nasset/Thumbnails/Rail.mesh.nasset.tex.nasset"
@@ -3936,10 +3708,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "f6195571-65e4-43c8-ab96-08a837d2a3a8": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Office_Chair_Thumb.tex.nasset"
-    },
     "f65019c6-3003-862a-7300-cdc0e9c0e9ea": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Bone.mtli.nasset",
@@ -3947,14 +3715,6 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
-    },
-    "f6ea5970-4174-9428-8993-2838e66665d4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Barrels_x2_Thumb.tex.nasset"
-    },
-    "f7115f46-5296-4e34-7df1-9818eaf1eded": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Barrels_Thumb.tex.nasset"
     },
     "f751f831-0f00-b6ae-e0ef-af09e5831dad": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4032,10 +3792,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Rock Track.mtli.nasset.tex.nasset"
     },
-    "fb04eeea-8274-bb5b-1b21-a9ab3fd91780": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Train_Track_Large_Thumb.tex.nasset"
-    },
     "fc8d7bd2-b322-906a-729a-588e8190e358": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4071,10 +3827,6 @@
             "8ab733f6-e43e-3332-04f4-3c92fbf250ff",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "fe371605-7d22-8b15-8172-7f251da24de4": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Source/Thumbnails/Building_Corridot_Thumb.tex.nasset"
     },
     "ff316dc9-4ace-506f-6b78-286fcc4ab02c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
