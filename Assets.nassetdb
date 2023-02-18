@@ -3814,7 +3814,8 @@
     },
     "fcf71308-e70d-4135-bc92-328f7710a344": {
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
-        "path": "Package.nplugin"
+        "path": "Package.nplugin",
+        "name": "Rogue Mars Assets"
     },
     "fe07ddd1-8e42-53b1-1292-1b304858ae63": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
